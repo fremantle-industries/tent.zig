@@ -1,0 +1,13 @@
+A Zig native microservice runtime for ambitious data driven projects.
+
+Usage:
+  tentz [command]
+
+Available Commands:
+  init      Initialize a new project
+  generate  Commands for generators
+  plugin    Commands for plugins
+
+Flags:
+  -h, --help    help for tentz
+  -v, --version version for tentz
